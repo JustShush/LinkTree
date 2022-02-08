@@ -256,12 +256,12 @@ button:hover,
 }
 
 /* Apartamento.Com */
-.button.button-discord {
+.button.button-Apartamento {
     color: #FFD700;
     background-color: #0B1F56
 }
 
-.button.button-discord:hover,
-.button.button-discord:focus {
+.button.button-Apartamento:hover,
+.button.button-Apartamento:focus {
     filter: brightness(90%)
 }
