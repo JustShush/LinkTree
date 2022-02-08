@@ -254,3 +254,14 @@ button:hover,
 .button.button-reddit:focus {
     filter: brightness(90%)
 }
+
+/* Apartamento.Com */
+.button.button-discord {
+    color: #FFD700;
+    background-color: #0B1F56
+}
+
+.button.button-discord:hover,
+.button.button-discord:focus {
+    filter: brightness(90%)
+}
