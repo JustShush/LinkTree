@@ -265,3 +265,14 @@ button:hover,
 .button.button-Apartamento:focus {
     filter: brightness(90%)
 }
+
+/* Fiverr */
+.button.button-Fiverr {
+    color: #555555;
+    background-color: #0B1F56
+}
+
+.button.button-Fiverr:hover,
+.button.button-Fiverr:focus {
+    filter: brightness(90%)
+}
