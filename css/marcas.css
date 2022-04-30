@@ -276,3 +276,13 @@ button:hover,
 .button.button-Fiverr:focus {
     filter: brightness(90%)
 }
+
+/* PayPal */
+.button.button-paypal {
+  color: #ffffff;
+  background-color: #003087;
+}
+.button.button-paypal:hover,
+.button.button-paypal:focus {
+  filter: brightness(90%);
+}
